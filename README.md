@@ -5,10 +5,8 @@
 Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a your first real Web 3.0 Application - from start to finish.
 
 
-To run node
+### 1. To run node
+`$ npx hardhat node`
 
-npx hardhat node
-
-To run app:
-
-npm run dev
+### 1. To run app
+`$ npm run dev`
